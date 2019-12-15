@@ -1,2 +1,2 @@
 # NeuralNetworks
-Neural Network Projects 
+Neural Network Projects - Fall 2019
